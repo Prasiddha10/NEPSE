@@ -4,10 +4,9 @@
 The dataset was taken from Kaggle "https://www.kaggle.com/datasets/sagyamthapa/nepali-stock-market-form-2012-to-2020-till-march?select=OHLC.csv"
 
 
-   cd NEPSE
 
 # Project Overview
-This project aims to predict the next quarter's stock prices for the top 10 companies listed on NEPSE using historical data and economic indicators.
+This project aims to predict the stock prices for the top 10 companies listed on NEPSE using historical data and economic indicators.
 
 ## Stock Price Analysis and Visualization
 
@@ -25,22 +24,15 @@ This repository contains scripts for analyzing and visualizing stock price data,
 ## Machine Learning Techniques
 We have choosen LSTM model for predicting the Nepse Stock Prices.
 # Feature Engineering
-
-
 *   **Technical Indicator**
-        
-
 1.     100 day moving average
 2.     200 day moving average
 
-
-- Performance evaluation and comparison
-
-
+- Performance evaluation
+- 
 ## Learning Beyond the Course
 - Advanced techniques used
 - Impact on project outcomes
-
 
 ## Dependencies
 
@@ -67,5 +59,6 @@ Below is the list of required libraries and their versions:
 
 
 ## Contributors
+- Prasiddha koirala
 - Bhabuk Thapa
 - Anshu Patel
