@@ -29,7 +29,7 @@ We have choosen LSTM model for predicting the Nepse Stock Prices.
 2.     200 day moving average
 
 - Performance evaluation
-- 
+  
 ## Learning Beyond the Course
 - Advanced techniques used
 - Impact on project outcomes
